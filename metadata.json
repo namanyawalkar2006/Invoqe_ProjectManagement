@@ -1,0 +1,6 @@
+{
+  "name": "Planify",
+  "description": "Production-grade collaborative project management platform featuring real-time Task Boards, role-based access control, task assignments, and activity feeds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
